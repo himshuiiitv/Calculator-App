@@ -1,2 +1,2 @@
 # Calculator-App
-made on android studio Android Studio Hedgehog
+made on android studio using Android Studio Hedgehog
